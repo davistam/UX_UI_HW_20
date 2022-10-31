@@ -1,0 +1,17 @@
+.prototype{
+    float:right;
+    margin: 0px auto 0px 5px;
+}
+
+.row{
+    float:right;}
+
+.intro{  
+    display: flex;
+    flex-direction: row; 
+}
+
+
+
+
+
